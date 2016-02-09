@@ -14,7 +14,7 @@ Edit the class `Employee`
 * A class annotation `@Entity`
 * Add a constructor without parameters and no implementation
 * Add an id field of type Long that acts as the primary key. See <http://www.objectdb.com/java/jpa/entity/id#Automatic_Primary_Key_> for more information
-* Add a version field of type Integer, annotated with `@version`
+* Add a version field of type Integer, annotated with `@Version`
 * create getters for version and id
 
 ###Enterprise JavaBeans
